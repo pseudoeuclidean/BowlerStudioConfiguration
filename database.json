@@ -8,13 +8,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Gear.groovy": [
-      "https://github.com/madhephaestus/VexVitaminScripts.git",
-      "scripts/Gear.groovy"
-    ],
-    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
-      "https://gist.github.com/4814b39ee72e9f590757.git",
-      "javaCad.groovy"
+    "https://gist.github.com/f4b5d8b74f1c69a5c53e913fe36d88b8.git:ExtrudeBezierAPI.groovy": [
+      "https://gist.github.com/f4b5d8b74f1c69a5c53e913fe36d88b8.git",
+      "ExtrudeBezierAPI.groovy"
     ]
   },
   "BowlerStudioConfigs": {
