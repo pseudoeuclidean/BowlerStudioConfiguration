@@ -15,6 +15,10 @@
     "https://gist.github.com/1599152e4f4797f53e816bf169057427.git:terrain.groovy": [
       "https://gist.github.com/1599152e4f4797f53e816bf169057427.git",
       "terrain.groovy"
+    ],
+    "https://gist.github.com/f4b5d8b74f1c69a5c53e913fe36d88b8.git:ExtrudeBezierAPI.groovy": [
+      "https://gist.github.com/f4b5d8b74f1c69a5c53e913fe36d88b8.git",
+      "ExtrudeBezierAPI.groovy"
     ]
   },
   "BowlerStudioConfigs": {
