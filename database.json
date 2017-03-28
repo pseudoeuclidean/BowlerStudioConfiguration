@@ -11,6 +11,10 @@
     "https://gist.github.com/2db3bc51e779a9fd0a6e99226f018e20.git:minkowsky.groovy": [
       "https://gist.github.com/2db3bc51e779a9fd0a6e99226f018e20.git",
       "minkowsky.groovy"
+    ],
+    "https://gist.github.com/1599152e4f4797f53e816bf169057427.git:terrain.groovy": [
+      "https://gist.github.com/1599152e4f4797f53e816bf169057427.git",
+      "terrain.groovy"
     ]
   },
   "BowlerStudioConfigs": {
