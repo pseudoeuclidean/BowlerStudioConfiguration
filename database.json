@@ -8,13 +8,13 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/a87af5e7d7dfbd7c5abce580445f96bb.git:polyhedra.groovy": [
-      "https://gist.github.com/a87af5e7d7dfbd7c5abce580445f96bb.git",
-      "polyhedra.groovy"
-    ],
     "https://gist.github.com/181c3fc92de7a25107fb6c67ac0a97b2.git:Mirror Prototype.groovy": [
       "https://gist.github.com/181c3fc92de7a25107fb6c67ac0a97b2.git",
       "Mirror Prototype.groovy"
+    ],
+    ":": [
+      "",
+      ""
     ]
   },
   "BowlerStudioConfigs": {
